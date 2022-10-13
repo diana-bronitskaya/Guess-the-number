@@ -67,7 +67,9 @@
         circleEl.remove()
     }, 4000)
 }    
-setInterval(createCircle, 50)    
+setInterval(createCircle, 50)
+
+
 
        
 
